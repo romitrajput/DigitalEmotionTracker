@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Digital Emotion Tracker</string>
+    <string name="accessibility_service_description">Counts app switches, scrolls, taps and typing activity on-device to build your personal wellbeing signals. No screen content, messages or passwords are read or stored.</string>
+</resources>
